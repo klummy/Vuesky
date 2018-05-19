@@ -1,5 +1,7 @@
 # vuesky
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/klummy/Vuesky.svg)](https://greenkeeper.io/)
+
 Vuesky is a simple, customizable UI kit for frontend development.
 
 <p align="center">
